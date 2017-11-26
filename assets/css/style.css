@@ -217,7 +217,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #aboutwrap {	
 	background: url(../img/life.gif) no-repeat center top;
-	margin-top: -70px;
+	margin-top: 0px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
